@@ -1,0 +1,6 @@
+.env
+*.jpg
+*.png
+node_modules
+.history
+*.zip

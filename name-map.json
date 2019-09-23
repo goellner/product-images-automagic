@@ -1,0 +1,23 @@
+[
+  {
+    "flasche": "005",
+    "verpackung": "006",
+    "image_1": "example-file-name-flasche",
+    "image_2": "example-file-name-verpackung",
+    "image_3": "example-file-name-flasche-mit-verpackung"
+  },
+  {
+    "flasche": "008",
+    "verpackung": "007",
+    "image_1": "example-file-name-2-flasche",
+    "image_2": "example-file-name-2-verpackung",
+    "image_3": "example-file-name-2-flasche-mit-verpackung"
+  },
+  {
+    "flasche": "010",
+    "verpackung": "009",
+    "image_1": "example-file-name-3-flasche",
+    "image_2": "example-file-name-3-verpackung",
+    "image_3": "example-file-name-3-flasche-mit-verpackung"
+  }
+]
